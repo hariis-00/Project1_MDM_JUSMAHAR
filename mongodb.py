@@ -15,7 +15,7 @@ df.to_json(json_file_path, orient='records', lines=True)
 
 
 
-cosmos_url = "mongodb+srv://mongodb:project1.@mongodb-p1-ajrizple.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000"
+cosmos_url = "mongodb+srv://hariis00:Grasshopperclub1!@bookingscrapper.global.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000"
 client = MongoClient(cosmos_url)
 db = client['MDMProjectOne']
 collection = db['HotelSummary']
