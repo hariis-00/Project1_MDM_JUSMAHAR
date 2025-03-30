@@ -1,0 +1,501 @@
+hotel,price,score,avg review,reviews count,address,date
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
+"Prize by Radisson, Zürich",CHF 672,"Scored 7.8
+7.8",Good,"1,020",Affoltern,2025-08-09
+Grindelwald Youth Hostel,CHF 430,"Scored 8.4
+8.4",Very Good,"1,048",Grindelwald,2025-08-09
+Best Western Hotel Rebstock,"CHF 1,088","Scored 9.0
+9.0",Wonderful,"1,403",Rorschacherberg,2025-08-09
+Dorint Parkhotel Bad Zurzach,"CHF 1,446","Scored 8.4
+8.4",Very Good,706,Bad Zurzach,2025-08-09
+Appartamento TieMi,CHF 640,"Scored 9.4
+9.4",Wonderful,47,Coldrerio,2025-08-09
+Hotel Fassbind Beausite,"CHF 1,004","Scored 9.5
+9.5",Exceptional,412,Beatenberg,2025-08-09
+Wellness- und Schneesporthotel Christiania,CHF 944,"Scored 8.5
+8.5",Very Good,183,Saas-Almagell,2025-08-09
+Luzern Youth Hostel,CHF 378,"Scored 7.7
+7.7",Good,"1,681",Lucerne,2025-08-09
+WAZ Wohnen auf Zeit - Flums,CHF 680,"Scored 9.0
+9.0",Wonderful,109,Flums,2025-08-09
+Chasa Castello relax & spa,"CHF 1,069","Scored 9.2
+9.2",Wonderful,554,Samnaun,2025-08-09
+Capsule Hotel - Lucerne Old Town,CHF 628,"Scored 9.0
+9.0",Wonderful,"1,438","Old Town, Lucerne",2025-08-09
+Hotel Restaurant Walliser Sonne,CHF 456,"Scored 7.0
+7.0",Good,"1,352",Reckingen - Gluringen,2025-08-09
+Swiss-Chalet Merlischachen - Romantik Schloss-Hotel am See,"CHF 1,501","Scored 8.6
+8.6",Excellent,615,Küssnacht,2025-08-09
+Garni Elisabetta,CHF 676,"Scored 8.1
+8.1",Very Good,258,Gordola,2025-08-09
+Neuchâtel City Hôtel,CHF 572,"Scored 7.0
+7.0",Good,"2,833",Neuchâtel,2025-08-09
+Zurich Youth Hostel,CHF 524,"Scored 8.4
+8.4",Very Good,"4,149","Wollishofen, Zurich",2025-08-09
+Everness Hotel & Resort,"CHF 1,122","Scored 8.4
+8.4",Very Good,"1,609",Chavannes-de-Bogis,2025-08-09
+Montreux Youth Hostel,CHF 481,"Scored 8.5
+8.5",Very Good,894,Montreux,2025-08-09
+Holiday Hotel YACHTSPORT RESORT Lago Maggiore,"CHF 1,474","Scored 9.4
+9.4",Wonderful,151,Brissago,2025-08-09
+B&B Bären,CHF 704,"Scored 9.0
+9.0",Wonderful,410,Rüeggisberg,2025-08-09
+Ferienwohnungen Romantica und Pacifica - ArtDaGio,"CHF 1,173","Scored 9.6
+9.6",Exceptional,33,Cumpadials,2025-08-09
+Bed and Breakfast Gantrisch Cottage Ferienzimmer,"CHF 1,120","Scored 9.2
+9.2",Wonderful,174,Rüeggisberg,2025-08-09
+Hotel Villa Post,"CHF 1,320","Scored 9.1
+9.1",Wonderful,274,Vulpera,2025-08-09
+Wohntel - wohnen wie im Hotel,CHF 840,"Scored 9.0
+9.0",Wonderful,53,Sevelen,2025-08-09
+Villmergen Swiss Quality Hotel,CHF 785,"Scored 8.5
+8.5",Very Good,923,Villmergen,2025-08-09
