@@ -15,10 +15,10 @@ df.to_json(json_file_path, orient='records', lines=True)
 
 
 
-cosmos_url = "mongodb+srv://hariis00:Grasshopperclub1!@bookingscrapper.global.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000"
-client = MongoClient(cosmos_url)
-db = client['MDMProjectOne']
-collection = db['HotelSummary']
+mongodb_url = "mongodb+srv://admin:12345@cluster0.uvofxqx.mongodb.net/"
+client = MongoClient(mongodb_url)
+db = client['Booking']
+collection = db['Hotel']
 
 
 with open(json_file_path, 'r') as file:
@@ -27,7 +27,9 @@ with open(json_file_path, 'r') as file:
 
 collection.insert_many(data)
 
-print(f"Es wurden {len(data)} Datensätze erfolgreich in Cosmos DB importiert.")
+print(f"Es wurden {len(data)} Datensätze erfolgreich in MongoDB importiert.")
 
 
 client.close()
+
+
