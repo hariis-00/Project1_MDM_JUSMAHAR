@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+import os
 from pymongo import MongoClient
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
@@ -14,8 +16,11 @@ from sklearn.model_selection import cross_val_score
 from sklearn.metrics import mean_squared_log_error
 from sklearn.metrics import median_absolute_error
 
+load_dotenv()
 
-client = MongoClient('mongodb+srv://admin:12345@cluster0.uvofxqx.mongodb.net/')
+mongo_uri = os.getenv('MONGO_URI')
+client = MongoClient(mongo_uri)
+
 db = client['Booking']
 collection = db['Hotel']
 
