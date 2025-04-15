@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Hotel Preis Vorhersage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Embedded CSS -->
+    <style>
+        body {
+            background-color: #f5f7fa;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .container {
+            max-width: 700px;
+        }
+
+        .card {
+            border: 1px solid #dee2e6;
+            border-radius: 0.75rem;
+            background-color: #ffffff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #003580;
+        }
+
+        .btn-primary {
+            background-color: #003580;
+            border-color: #003580;
+        }
+
+        .btn-primary:hover {
+            background-color: #002b66;
+            border-color: #002b66;
+        }
+
+        .input-group-text {
+            background-color: #e9ecef;
+            border: 1px solid #ced4da;
+        }
+
+        #price-value {
+            color: #28a745;
+        }
+
+        .preview-card {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+        }
+
+        footer {
+            font-style: italic;
+        }
+    </style>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+<body>
+<div class="container mt-5">
+    <div class="card p-4">
+        <h2 class="mb-4 text-primary font-weight-bold">🔍 Hotel Preis Vorhersage</h2>
+
+        <form onsubmit="event.preventDefault(); predictPrice();">
+            <div class="form-group">
+                <label for="score">⭐ Bewertungsscore (1–10):</label>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">⭐</span>
+                    </div>
+                    <input type="number" class="form-control" id="score" required min="1" max="10" step="0.1" placeholder="z. B. 8.7">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label for="reviews_count">🗣️ Anzahl Bewertungen:</label>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">🗣️</span>
+                    </div>
+                    <input type="number" class="form-control" id="reviews_count" required placeholder="z. B. 234">
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block shadow-sm">💰 Preis vorhersagen</button>
+        </form>
+
+        <div id="result" class="preview-card mt-4" style="display: none;">
+            <h4 class="text-success">💶 Vorhergesagter Preis:</h4>
+            <p id="price-value" class="font-weight-bold" style="font-size: 1.6rem;"></p>
+            <div class="text-muted">Basierend auf eingegebenem Score und Bewertungsanzahl</div>
+        </div>
+
+        <p class="text-muted mt-4" style="font-size: 0.9rem;">
+            Dieses Tool hilft Ihnen, den Preis eines Hotelzimmers basierend auf Bewertungsscore und Anzahl der Bewertungen vorherzusagen. Die Vorhersagen sind Richtwerte und ersetzen keine Marktpreise.
+        </p>
+    </div>
+
+    <footer class="mt-5 text-center text-muted" style="font-size: 0.85rem;">
+        Nicht offiziell verbunden mit Booking.com – rein akademisches Projekt.
+    </footer>
+</div>
+
+<script>
+    async function predictPrice() {
+        const score = document.getElementById("score").value;
+        const reviewsCount = document.getElementById("reviews_count").value;
+        const response = await fetch('/predict', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({score: score, "reviews_count": reviewsCount})
+        });
+        const data = await response.json();
+
+        if (data.predicted_price) {
+            document.getElementById("result").style.display = 'block';
+            document.getElementById("price-value").textContent = data.predicted_price.toFixed(2) + " CHF";
+        } else if (data.error) {
+            alert("Fehler: " + data.error);
+        }
+    }
+</script>
+</body>
+</html>

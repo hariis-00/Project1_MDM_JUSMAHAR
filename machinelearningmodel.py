@@ -31,7 +31,6 @@ df = pd.DataFrame(list(documents))
 df['price'] = df['price'].replace(r'[^\d.]', '', regex=True).astype(float)
 df['reviews count'] = df['reviews count'].str.replace(',', '').astype(int)
 df['score'] = df['score'].astype(float)
-df['is_25_may'] = df['date'].apply(lambda x: 1 if x == "2024-05-25" else 0)
 
 
 X = df[['score', 'reviews count']].values
