@@ -4,7 +4,6 @@ import joblib
 
 app = Flask(__name__)
 
-# Modell lokal laden (nicht von Azure!)
 model = joblib.load("hotel_price_prediction_model.pkl")
 
 @app.route('/')
