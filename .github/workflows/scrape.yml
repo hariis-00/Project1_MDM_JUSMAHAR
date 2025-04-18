@@ -1,4 +1,4 @@
-name: 🕷️ Daily Hotel Scraper
+name: 🕷️ Daily Hotel Scraper & Mongo Import
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:     # Optional: manuell starten
 
 jobs:
-  scrape-hotels:
+  scrape-and-import:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,3 +25,8 @@ jobs:
 
     - name: 🕷️ Run Booking Scraper
       run: python bookingscraper.py
+
+    - name: 🗃️ Import scraped data into MongoDB
+      run: python mongodb.py
+      env:
+        MONGO_URI: ${{ secrets.MONGO_URI }}
