@@ -1,0 +1,27 @@
+name: 🕷️ Daily Hotel Scraper
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Jeden Tag um 03:00 UTC
+  workflow_dispatch:     # Optional: manuell starten
+
+jobs:
+  scrape-hotels:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Code auschecken
+      uses: actions/checkout@v3
+
+    - name: 🐍 Python Setup
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+
+    - name: 📦 Abhängigkeiten installieren
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: 🕷️ Run Booking Scraper
+      run: python bookingscraper.py
