@@ -19,10 +19,8 @@ def main():
             page_url = f"{base_url}&offset={offset}"
             page.goto(page_url, timeout=60000)
             page.wait_for_timeout(10000)
-        
 
             hotels = page.locator('//div[@data-testid="property-card"]').all()
-        
 
             for hotel in hotels:
                 hotel_dict = {}

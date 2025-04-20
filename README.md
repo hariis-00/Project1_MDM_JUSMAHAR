@@ -1,6 +1,6 @@
 1) 🏨 Hotelpreis-Prognose mit Machine Learning, Docker & Azure
 
-Dieses Projekt wurde im Rahmen des Moduls Model Deployment & Maintenance (MDM) umgesetzt. Ziel ist es, Hotelpreise auf Basis von Bewertungen und Anzahl Rezensionen vorherzusagen – und das Modell anschließend in einem Docker-Container auf Azure zu deployen.
+Dieses Projekt wurde im Rahmen des Moduls Model Deployment & Maintenance (MDM) umgesetzt. Ziel ist es, Hotelpreise auf Basis von Bewertungen und Anzahl Rezensionen vorherzusagen – und das Modell anschliessend in einem Docker-Container auf Azure zu deployen.
 
 2) 💡 Projektidee
 
