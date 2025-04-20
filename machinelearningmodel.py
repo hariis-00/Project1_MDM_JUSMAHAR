@@ -83,4 +83,4 @@ full_blob_url = f"{sas_url.split('?')[0]}/{blob_name}?{sas_url.split('?')[1]}"
 blob_client = BlobClient.from_blob_url(full_blob_url)
 with open("hotel_price_prediction_model.pkl", "rb") as data:
     blob_client.upload_blob(data)
-    print(f"✅ Modell erfolgreich nach Azure Blob hochgeladen als: {blob_name}")
+    print(f"Modell erfolgreich nach Azure Blob hochgeladen als: {blob_name}")
